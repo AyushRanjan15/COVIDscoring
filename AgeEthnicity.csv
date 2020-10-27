@@ -1,0 +1,47 @@
+﻿Age,Ethnicity,Hospitalization rate per 100000 population,Standardised Rate,Risk Band
+0-4,Non-Hispanic American Indian or Alaska Native,11.7,0.00822809,LOW 
+0-4,Non-Hispanic Black,17.9,0.014159969,LOW 
+0-4,Hispanic or Latino,23.8,0.019804822,LOW 
+0-4,Non-Hispanic Asian or Pacific Islander,6,0.002774589,LOW 
+0-4,Non-Hispanic White,3.1,0,LOW 
+5-17,Non-Hispanic American Indian or Alaska Native,11.7,0.00822809,LOW 
+5-17,Non-Hispanic Black,17.9,0.014159969,LOW 
+5-17,Hispanic or Latino,23.8,0.019804822,LOW 
+5-17,Non-Hispanic Asian or Pacific Islander,6,0.002774589,LOW 
+5-17,Non-Hispanic White,32.1,0.027745886,LOW 
+18-29,Non-Hispanic American Indian or Alaska Native,257.5,0.243398393,SOME
+18-29,Non-Hispanic Black,188.3,0.177190968,LOW 
+18-29,Hispanic or Latino,271.4,0.256697283,SOME
+18-29,Non-Hispanic Asian or Pacific Islander,54.2,0.048890165,LOW 
+18-29,Non-Hispanic White,32.1,0.027745886,LOW 
+30-39,Non-Hispanic American Indian or Alaska Native,257.5,0.243398393,SOME
+30-39,Non-Hispanic Black,188.3,0.177190968,LOW 
+30-39,Hispanic or Latino,271.4,0.256697283,SOME
+30-39,Non-Hispanic Asian or Pacific Islander,54.2,0.048890165,LOW 
+30-39,Non-Hispanic White,32.1,0.027745886,LOW 
+40-49,Non-Hispanic American Indian or Alaska Native,257.5,0.243398393,SOME
+40-49,Non-Hispanic Black,188.3,0.177190968,LOW 
+40-49,Hispanic or Latino,271.4,0.256697283,SOME
+40-49,Non-Hispanic Asian or Pacific Islander,54.2,0.048890165,LOW 
+40-49,Non-Hispanic White,32.1,0.027745886,LOW 
+50-64,Non-Hispanic American Indian or Alaska Native,643.4,0.612610027,HIGH
+50-64,Non-Hispanic Black,526.1,0.500382702,MODERATE
+50-64,Hispanic or Latino,584.5,0.556257176,MODERATE
+50-64,Non-Hispanic Asian or Pacific Islander,160.3,0.150401837,LOW 
+50-64,Non-Hispanic White,100.8,0.093474933,LOW 
+65-74,Non-Hispanic American Indian or Alaska Native,710.8,0.677095293,HIGH
+65-74,Non-Hispanic Black,1048.3,1,VERY HIGH
+65-74,Hispanic or Latino,760.1,0.724263299,HIGH
+65-74,Non-Hispanic Asian or Pacific Islander,306.8,0.290566399,SOME
+65-74,Non-Hispanic White,282,0.266838883,SOME
+75-84,Non-Hispanic American Indian or Alaska Native,710.8,0.677095293,HIGH
+75-84,Non-Hispanic Black,1048.3,1,VERY HIGH
+75-84,Hispanic or Latino,760.1,0.724263299,HIGH
+75-84,Non-Hispanic Asian or Pacific Islander,306.8,0.290566399,SOME
+75-84,Non-Hispanic White,282,0.266838883,SOME
+85+,Non-Hispanic American Indian or Alaska Native,710.8,0.677095293,HIGH
+85+,Non-Hispanic Black,1048.3,1,VERY HIGH
+85+,Hispanic or Latino,760.1,0.724263299,HIGH
+85+,Non-Hispanic Asian or Pacific Islander,306.8,0.290566399,SOME
+85+,Non-Hispanic White,282,0.266838883,SOME
+,,,,

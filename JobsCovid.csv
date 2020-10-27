@@ -1,0 +1,167 @@
+﻿Major Occupational Group, Occupation,Numebr of ppl employed (2016),Infection Score,Physical Proximity Score,Risk Band by Infection Score
+Clerical and Admin Workers,Courier,22528,73,45,HIGH
+Clerical and Admin Workers,Medical receptionist,46738,53,71,MODERATE
+Clerical and Admin Workers,Health Practice Manager,17595,34,45,SOME
+Clerical and Admin Workers,Secretary,34036,29,43,SOME
+Clerical and Admin Workers,Project/Program Admin,88478,23,45,SOME
+Clerical and Admin Workers,Filling/Registry Clerk,12268,19,47,LOW 
+Clerical and Admin Workers,Payroll Clerk,25264,7,37,LOW 
+Clerical and Admin Workers,Personal Assistant,52582,8,39,LOW 
+Clerical and Admin Workers,Contact Admin,18007,0,37,LOW 
+Clerical and Admin Workers,Credit/Loan Officer,25703,4,42,LOW 
+Clerical and Admin Workers,Accounts Clerk,93289,4,44,LOW 
+Clerical and Admin Workers,Despatching/Receiving clerk,22504,4,46,LOW 
+Clerical and Admin Workers,Officer Manager,115649,9,47,LOW 
+Clerical and Admin Workers,Information Officer,54981,31,52,SOME
+Clerical and Admin Workers,General Clerk,219843,28,64,SOME
+Clerical and Admin Workers,Bank Worker,48033,34,76,SOME
+Clerical and Admin Workers,Purchasing Officer,146664,10,51,LOW 
+Clerical and Admin Workers,Data Entry Operator,39127,11,57,LOW 
+Clerical and Admin Workers,Postal Delivery Officer,13481,8,57,LOW 
+Clerical and Admin Workers,Call/Contact Center Operator,28805,5,58,LOW 
+Clerical and Admin Workers,Order Clerk,13372,3,56,LOW 
+Clerical and Admin Workers,Stock Clerk,17362,2,58,LOW 
+Clerical and Admin Workers,Insurance Consultant,23836,0,52,LOW 
+Community and Personal Service Workers,Hospital Orderly,12427,97,97,VERY HIGH
+Community and Personal Service Workers,Dental Assistant,21888,96,99,VERY HIGH
+Community and Personal Service Workers,Ambulance Officer,12745,89,97,VERY HIGH
+Community and Personal Service Workers,Enrolled Nurse,34039,83,91,VERY HIGH
+Community and Personal Service Workers,Fire Fighter,12159,77,89,HIGH
+Community and Personal Service Workers,Prison Officer,15131,72,81,HIGH
+Community and Personal Service Workers,Police Officer,48229,61,73,HIGH
+Community and Personal Service Workers,Personal Care Assistant,28897,63,84,HIGH
+Community and Personal Service Workers,Aged/Disabled Carer,132325,62,86,HIGH
+Community and Personal Service Workers,Community Worker,24423,58,79,MODERATE
+Community and Personal Service Workers,Integration Aide,18994,49,83,MODERATE
+Community and Personal Service Workers,Child Care Worker,96217,45,82,MODERATE
+Community and Personal Service Workers,Massage Therapist,14852,35,89,SOME
+Community and Personal Service Workers,Teachers' Aide,58780,36,88,SOME
+Community and Personal Service Workers,Beauty Therapist,25416,36,99,SOME
+Community and Personal Service Workers,Fitness Instructor,27235,22,83,SOME
+Community and Personal Service Workers,Waiter,106357,16,78,LOW 
+Community and Personal Service Workers,Security Officer,39855,16,68,LOW 
+Community and Personal Service Workers,Swimming Coach/ Instructor,12325,9,74,LOW 
+Community and Personal Service Workers,Barista,37231,8,75,LOW 
+Community and Personal Service Workers,Café Worker,29521,7,74,LOW 
+Community and Personal Service Workers,Bar Attendant,46450,4,79,LOW 
+Community and Personal Service Workers,Travel Consultant,19815,0,55,LOW 
+Labourers,Commercial Housekeeper,25713,52,42,MODERATE
+Labourers,Commercial Keeper,126157,47,48,MODERATE
+Labourers,Home Improvement Installer,11232,44,69,MODERATE
+Labourers,Car Detailer,14645,16,55,LOW 
+Labourers,Fast Food Cook,35162,11,65,LOW 
+Labourers,Builder's Labourer,38160,10,73,LOW 
+Labourers,Shelf Filler,50619,20,84,LOW 
+Labourers,Garden Labourer,19055,9,76,LOW 
+Labourers,Kitchen Hand,109637,6,69,LOW 
+Labourers,concreter,27561,5,86,LOW 
+Labourers,Labourers nec,15724,3,70,LOW 
+Labourers,Packers nfd,19535,4,59,LOW 
+Labourers,Product Assembler,22461,3,59,LOW 
+Labourers,Handyperson,30694,3,61,LOW 
+ Machinery Operators and Drivers,Forklift Driver,48903,4,34,LOW 
+ Machinery Operators and Drivers,Truck Driver (General),137184,7,42,LOW 
+ Machinery Operators and Drivers,Engineering Production Worker,16538,2,43,LOW 
+ Machinery Operators and Drivers,Bus Driver,32959,47,78,MODERATE
+ Machinery Operators and Drivers,Taxi Driver,27198,25,79,SOME
+ Machinery Operators and Drivers,Delivery Driver,41039,13,67,LOW 
+ Machinery Operators and Drivers,Storeperson,108213,2,58,LOW 
+ Machinery Operators and Drivers,Miner,32283,1,53,LOW 
+Managers,Health and Welfare Services Manegers,15905,34,45,SOME
+Managers,Facilities Manager,17044,23,45,SOME
+Managers,Chief Executive / Managing Director,58331,18,43,LOW 
+Managers,Quality Assurance Manager,14138,16,48,LOW 
+Managers,Transport Company Manager,11772,11,42,LOW 
+Managers,Finance Manager,47011,7,35,LOW 
+Managers,Human Resource Manager,45347,5,41,LOW 
+Managers,Engineering Manager,15419,3,43,LOW 
+Managers,Sales and Marketing Manager,100596,2,47,LOW 
+Managers,Construction Project Manager,42142,4,50,LOW 
+Managers,Hotel/Motel Manager,19940,4,49,LOW 
+Managers,ICT Managers nfd,11906,5,51,LOW 
+Managers,Supply and Distribution Manager,24520,3,51,LOW 
+Managers,Beef Cattle Farmer,28292,5,53,LOW 
+Managers,Production Manager,32031,5,55,LOW 
+Managers,Customer Service Manager,34251,5,58,LOW 
+Managers,Wholesaler,11405,10,58,LOW 
+Managers,Corporate General Manager,50799,14,55,LOW 
+Managers,School Principal,20617,21,52,SOME
+Managers,Retail Manager,170343,10,66,LOW 
+Managers,Childcare Centre Manager,11185,40,75,SOME
+Managers,Conference and Event Organiser,20503,0,72,LOW 
+Managers,Café or Restaurant Manager,53892,10,78,LOW 
+Professionals,Clinical Psychologist,13470,57,62,MODERATE
+Professionals,Retail Pharmacist,18833,76,72,HIGH
+Professionals,Early childhood teacher,27129,52,76,MODERATE
+Professionals,Registered Nurse (Mental Health),14062,80,77,HIGH
+Professionals,Social Worker,21949,88,76,VERY HIGH
+Professionals,Welfare Worker,19954,58,79,MODERATE
+Professionals,Special Needs Teacher,18058,55,81,MODERATE
+Professionals,Registered Nurse (Perioperative),19129,96,87,VERY HIGH
+Professionals,General Practitioner,42590,100,91,VERY HIGH
+Professionals,Registered Nurse (Critical care & Emergency),32893,99,94,VERY HIGH
+Professionals,Registered Nurse (Aged Care),39266,95,94,VERY HIGH
+Professionals,Occupational Therapist,12353,92,95,VERY HIGH
+Professionals,Midwife,18318,89,97,VERY HIGH
+Professionals,Registered Nurse (Surgical),15133,87,97,VERY HIGH
+Professionals,Dentist,11940,95,99,VERY HIGH
+Professionals,Physiotherapist,20747,67,100,HIGH
+Professionals,Primary School Teacher,148498,46,79,MODERATE
+Professionals,Minister of Religion,16690,40,55,SOME
+Professionals,Occupational Health and Safety Adviser,16180,18,65,LOW 
+Professionals,Secondary School Teacher,137346,17,70,LOW 
+Professionals,Vocational Education Teacher,30898,17,76,LOW 
+Professionals,Private Tutors and Teachers,11381,7,81,LOW 
+Professionals,Mechanical Engineer,13979,7,58,LOW 
+Professionals,Urban and Regional Planner,11214,6,54,LOW 
+Professionals,Systems Admin,12958,3,54,LOW 
+Professionals,Architect,16991,2,53,LOW 
+Professionals,Nurse Manager,16058,34,45,SOME
+Professionals,Medical Laboratory Scientist,16276,33,43,SOME
+Professionals,Solicitor,54912,14,34,LOW 
+Professionals,Policy Analyst,13314,7,31,LOW 
+Professionals,Graphic Designer,26136,0,34,LOW 
+Professionals,Financial Investment Adviser,24146,2,37,LOW 
+Professionals,Accountant (General),130065,1,39,LOW 
+Professionals,Human Resource Adviser,24636,5,41,LOW 
+Professionals,Management Consultant,55465,2,41,LOW 
+Professionals,Finance Broker,12655,4,42,LOW 
+Professionals,Training and Development Professional,18275,7,46,LOW 
+Professionals,Civil Engineer,21304,4,45,LOW 
+Professionals,Public Relations Professional,15484,4,46,LOW 
+Professionals,Sales Representative (Industrial Products),17583,6,46,LOW 
+Professionals,Marketing Specialist,51430,2,47,LOW 
+Professionals,University Lecturer,37262,3,48,LOW 
+Professionals,ICT Business Analyst,13520,5,48,LOW 
+Sales Workers,Pharmacy Sales Assistant,33162,78,82,HIGH
+Sales Workers,ICT Sales Assistant,12691,6,46,LOW 
+Sales Workers,Property Manager,34526,2,51,LOW 
+Sales Workers,Sales Representative (Personal & Household Goods),28491,3,52,LOW 
+Sales Workers,Real Estate Agent,22111,6,54,LOW 
+Sales Workers,Retail Supervisor,27527,10,66,LOW 
+Sales Workers,Motor Vehicle Parts Interpreter,16156,0,67,LOW 
+Sales Workers,Sales Assistant (General),526010,19,69,LOW 
+Sales Workers,Real Estate Representative,14838,4,71,LOW 
+Sales Workers,Ticket Seller,15401,12,81,LOW 
+Technicians and Trade workers,Plumber,48192,58,60,MODERATE
+Technicians and Trade workers,Hairdresser,54422,59,95,MODERATE
+Technicians and Trade workers,Architectural Draftperson,12043,6,47,LOW 
+Technicians and Trade workers,Welder,19769,1,46,LOW 
+Technicians and Trade workers,Motor Mechanic,73546,8,53,LOW 
+Technicians and Trade workers,Baker,17291,7,55,LOW 
+Technicians and Trade workers,Cabinetmaker,20995,0,55,LOW 
+Technicians and Trade workers,Electronic Equipment Trades Worker,16580,5,60,LOW 
+Technicians and Trade workers,Fitter,62187,6,60,LOW 
+Technicians and Trade workers,Fiborous Plasterer,21426,6,61,LOW 
+Technicians and Trade workers,Telecommunications Technician,12676,22,62,SOME
+Technicians and Trade workers,Air Conditioning and Refrigerartor Mechanic,18752,15,66,LOW 
+Technicians and Trade workers,Wall and Floor Tiler,17788,12,64,LOW 
+Technicians and Trade workers,ICT Customer Support Officer,36993,8,64,LOW 
+Technicians and Trade workers,Painting Trades Workers,42200,4,64,LOW 
+Technicians and Trade workers,Building Associate,30689,5,71,LOW 
+Technicians and Trade workers,Electrician,111894,11,75,LOW 
+Technicians and Trade workers,Butcher or Small Goods Maker,15822,3,77,LOW 
+Technicians and Trade workers,Chef,80723,15,81,LOW 
+Technicians and Trade workers,Carpenter,92511,13,81,LOW 
+Technicians and Trade workers,Cook,42097,10,81,LOW 
+Technicians and Trade workers,Bricklayer,19250,4,83,LOW 
